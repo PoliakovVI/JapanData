@@ -1,3 +1,4 @@
 Toyota
 TokyoElectron
 TohoKinzoku
+JPX-Nikkei-INDEX

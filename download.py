@@ -8,7 +8,8 @@ def download_data(yahoo_corp_name="TSLA", output_csv_name="Tesla", download_to_p
 download_list = [  
 	["TM", "Toyota"],
 	["8035.T", "TokyoElectron"],
-	["5781.T", "TohoKinzoku"]
+	["5781.T", "TohoKinzoku"],
+	["1593.T", "JPX-Nikkei-INDEX"],
 	]
 
 with open("names.txt", 'w') as fout:
