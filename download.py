@@ -42,7 +42,7 @@ download_list = [
 	
 download_list = fill_download_list(download_list)
 
-download_list = download_list[0:500]
+#download_list = download_list[0:500]
 
 print(len(download_list), "to download")
 names = read_names()
@@ -59,4 +59,4 @@ for item_name in download_list:
 	print(id, "/", len(download_list))
 	id += 1
 
-write_names(names)
+#write_names(names)
