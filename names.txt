@@ -559,7 +559,6 @@ Jmdc Inc
 Joshin Denki Co., Ltd
 Joyful Honda Co., Ltd
 JP-Holdings,Inc
-JPX-Nikkei-INDEX
 JSP Corporation
 JSR Corporation
 JTEKT Corporation
@@ -1653,3 +1652,4 @@ Zojirushi Corporation
 ZOZO, Inc
 Zuiko Corporation
 Zuken Inc
+JPX-Nikkei-INDEX
